@@ -56,9 +56,15 @@ topics:
     image_url:
 
   - name: Security Operations
+  - web_url: https://github.com/topics/siem
   - name: Penetration Testing
+  - web_url: https://github.com/topics/penetration-testing
   - name: DevSecOps
+  - web_url: https://github.com/topics/devsecops
   - name: Cyber Forensics
+  - web_url: https://github.com/topics/digital-forensics
   - name: Social Engineering
-  - name: Psycology
+  - web_url: https://github.com/topics/social-engineering
+  - name: Psychology
+  - web_url: https://github.com/topics/psychology
 
