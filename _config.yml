@@ -50,9 +50,13 @@ topics:
   - name: Cyber Security
     web_url: https://github.com/topics/cyber-security
     image_url:
-
-  - name: Research
-
+    
   - name: Cyber Research
     web_url: https://github.com/topics/cyber-research
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url:
+
+  - name: Security Operations
+  - name: Penetration Testing
+  - name: DevSecOps
+  - name: Cyber Forensics
+
